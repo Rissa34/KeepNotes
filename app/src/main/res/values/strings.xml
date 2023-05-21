@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Заметки Иван Михайлик типо да</string>
+    <string name="Heading1">Название</string>
+    <string name="Heading2">Описание</string>
+    <string name="hint1">Назовите</string>
+    <string name="hint2">Описание заметки</string>
+    <string name="channel_name">Напомните</string>
+    <string name="channel_description">Оповещения</string>
+</resources>
